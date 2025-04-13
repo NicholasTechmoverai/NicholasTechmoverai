@@ -59,17 +59,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in full-st
 
 ---
 
-### 📷 Snapshot of My Work
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/b4601e69-adff-4601-bd7e-ba24fcf2b357" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0dd523c6-3ecd-43bc-9812-60f738b00ff2" width="250"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/bb80976b-80b1-4594-a401-15c330bdfc0f" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/fbbf4ed6-894f-44e1-980c-7178af151651" width="250"/></td>
-  </tr>
-</table>
+
 
 
 ---

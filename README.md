@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in full-st
 
 ### 🔥 What I'm Working On
 
-- 🚀 Developing AI-assisted GIF sequence generators for creative storytelling.
+
 - 🌐 Building scalable web applications with Vue 3 and FastAPI.
 - 🛠️ Experimenting with real-time data applications and automation.
 

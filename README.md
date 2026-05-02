@@ -107,31 +107,6 @@ kariuki = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
-## Skill Proficiency
-
-| Skill        | Level       | Progress |
-|--------------|-------------|----------|
-| HTML5        | Expert      | `##########` 95% |
-| CSS3         | Expert      | `##########` 95% |
-| Python       | Expert      | `#########·` 90% |
-| Vue 3        | Advanced    | `########··` 85% |
-| MySQL        | Advanced    | `########··` 80% |
-| Tailwind CSS | Advanced    | `########··` 80% |
-| TypeScript   | Advanced    | `#######···` 75% |
-| SQLite       | Advanced    | `#######···` 75% |
-| Flask        | Advanced    | `#######···` 75% |
-| Nuxt.js      | Advanced    | `#######···` 75% |
-| JavaScript   | Advanced    | `#######···` 75% |
-| FastAPI      | Proficient  | `######····` 70% |
-| Docker       | Proficient  | `######····` 65% |
-| Kubernetes   | Learning    | `####······` 40% |
-| Bash         | Advanced    | `#######···` 75% |
-| C++          | Intermediate| `####······` 45% |
-
----
-
 ## GitHub Analytics
 
 <div align="center">
